@@ -1,0 +1,92 @@
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #221D1D;
+ }
+
+.hdr {
+    position: absolute;
+    background-color: #036638;
+    top: .5cm;
+    height: 3cm;
+    margin: 20px 20px;
+    width: 90%;
+    left: .3cm;
+}
+ .art {
+    position: absolute;
+    background-color:#fff;
+    top: 4cm;
+    height: 69%;
+    margin: 20px 20px;
+    width: 150px;
+    left: .3cm;
+}
+
+.articulos {
+    position: absolute;
+    background-color: #fff;
+    top: 4cm;
+    height: 5cm;
+    margin: 20px 20px;
+    width: 68.5%;
+    left: 5cm;
+}
+.articulos1 {
+    position: absolute;
+    background-color: #fff;
+    top: 10cm;
+    height: 5cm;
+    margin: 20px 20px;
+    width: 68.5%;
+    left: 5cm;
+}
+.articulos2 {
+    position: absolute;
+    background-color: #fff;
+    top: 16cm;
+    height: 5cm;
+    margin: 20px 20px;
+    width: 68.5%;
+    left: 5cm;
+}
+.abajo {
+    position: absolute;
+    background-color: #fff;
+    top: 22cm;
+    height: 4cm;
+    margin: 20px 20px ;
+    width: 90%;
+    left: .3cm;
+}
+.texto_cabeza {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 2cm;
+    color: #000000;
+    
+}
+.texto_articulos {
+    text-align: center;
+    font-family: 'arial';
+    font-size: 1cm;
+    color: #000000;
+}
+.texto_articulo2 {
+    text-align: center;
+    font-family: 'arial';
+    font-size: .5cm;
+    color: #000000;
+}
+.texto_izq {
+    text-align: center;
+    font-family: 'arial';
+    font-size: .5cm;
+    color: #000000;
+}
+.img1 {
+    position: absolute;
+    background: url(C:\Users\user\OneDrive\Documentos\Escuela\Quinto semestre\Nava\U 1\codigos\Practica 5 v2\img);
+    width:100% ;
+    left: 1cm;
+    top:10px;    
+}
